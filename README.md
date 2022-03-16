@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-00c6d1?style=for-the-badge&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
   
 ### 🔨 Tools 🔨
