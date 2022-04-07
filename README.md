@@ -1,13 +1,51 @@
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Juhwan%20Lee&desc=HI%20THERE👋&descAlign=74&descAlignY=66&animation=twinkling&fontSize=90)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anton&size=30&color=5B7683&width=550&lines=Hello%2C+I'm++Juhwan+Lee+(*%CB%8A%E1%B5%95%CB%8B*)%EF%BE%89;I'm+a+front-end+developer+who+always+tries)](https://git.io/typing-svg)
 
-<div align="center">
+
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJuhwanLeeKR&count_bg=%238D9C9F&title_bg=%232F2929&icon=mailchimp.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false)](https://github.com/JuhwanLeeKR) -->
+
+```
+              .$:!-,.                            ,,,,,,           -;                                       
+              *#~,;;*;    -;;:                  ,;;!@*;           -=.                                       
+              @=    .@!  =*--:;  =-    *!           !~  :=    .!. -@. !==;  ,;      ,=,  ;=**==   =   :=-   
+              @=     #! =@   ,@- @;   !@            :*  ;@    ,@- -@@@! ~$  @*  ,@~  ;!       @=  @;*@=-#   
+              =$   ~!*  =@****;~ **. !$.        .   :*  ;@   ~@@- -@=    #, @*  @@~  ;* :***=:@=  @#*   =#   
+              .@***;,   -@!, -$! ,@-*$.        ~;  .$~  -#~,!@;@- -@,   !$  @*.!#*= .$, $*  :@!#- @*    =~   
+               @;..      .,=#$.   ;#$          .$##@!    -@#~.,@- -$.   @$  .@@,  =#@;  .*@#@~ .  @~   :@   
+                                                                                                           
+```
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_juhwan">
+
+
+<div>
+
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJuhwanLeeKR&count_bg=%238D9C9F&title_bg=%232F2929&icon=mailchimp.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false)](https://github.com/JuhwanLeeKR)
-  
+🧑‍💻 Hello, I am studying hard to become a __front-end developer__.<br/>
+🖌️ I majored in visual design. <br/>
+🛠️ It mainly uses __JavaScript__ and __React__, and there is no resistance to new technologies.
+
+
+📖 I enjoy reading books and working out. <br/>
+💪 __I always try to be myself as much as I can__.
+
+😊 I look forward to your kind cooperation.
+
 </div>
 
+
+
+
+  
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=juhwanleekr" height="165"> -->
+
+
+  
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhwanleekr&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" height="165">
+  
+
+<div align='left'>
+
+<br/>
+  
 ### 🛠 TECH STACK ️🛠️
 
 #### Techs that I've usually used✌️
@@ -38,11 +76,9 @@
 <a href="https://velog.io/@leejuhwan"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@leejuhwan"/></a>&nbsp;
 <a href="mailto:dev.juhwanlee@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=dev.juhwanlee@gmail.com"/></a>
 
+</div>
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=juhwanleekr) -->
   
-![juhwanleekr's github stats](https://github-readme-stats.vercel.app/api?username=juhwanleekr&show_icons=true)
 
-[![juhwanleekr's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juhwanleekr&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/juhwanleekr)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_juhwan)](https://solved.ac/dev_juhwan)
+  
 
-</div>
