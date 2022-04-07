@@ -6,13 +6,13 @@
 
 
 ```
-   .$:!-,.                            ,,,,,,           -;                                       
-   *#~,;;*;    -;;:                  ,;;!@*;           -=.                                       
-   @=    .@!  =*--:;  =-    *!           !~  :=    .!. -@. !==;  ,;      ,=,  ;=**==   =   :=-   
-   @=     #! =@   ,@- @;   !@            :*  ;@    ,@- -@@@! ~$  @*  ,@~  ;!       @=  @;*@=-#   
-   =$   ~!*  =@****;~ **. !$.        .   :*  ;@   ~@@- -@=    #, @*  @@~  ;* :***=:@=  @#*   =#   
-  .@***;,   -@!, -$! ,@-*$.        ~;  .$~  -#~,!@;@- -@,   !$  @*.!#*= .$, $*  :@!#- @*    =~   
-    @;..      .,=#$.   ;#$          .$##@!    -@#~.,@- -$.   @$  .@@,  =#@;  .*@#@~ .  @~   :@   
+   .$:!-,.                            ,,,,,,           ;,                                       
+   *#~``;*;    -;;,                  ,;;!@*;            =.                                       
+   @=    .@!  =*`':;  =-    *!           !~  :=    .!   @. !==;  ,;       =,  ;=**==   =   :=-   
+   @=     #! =@   ,@- @;   !@            :*  ;@    ,@   @@@! ~$  @*  ,@   ;!       @=  @;*@=-#   
+   =$   ,!*  =@*****  **. !$.       ,,   :*  ;@   ~@@   @=    #, @*  @@~  ;* :***=:@=  @#*   =#   
+   @*_,,;   -@!,   ,   @-*$.        ~;  .$~  -#~,!@;@- -@,   !$  @*.!#*= .$, $*  :@!#  @*    =~   
+    @;..      \;=#$`   ;#$          .$##@!    -@#~  @- -$.   @$  .@@   =#@;  .*@#@~ $  @~   :@   
 ```
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_juhwan">
 
@@ -22,7 +22,7 @@
   
 🧑‍💻 Hello, I am studying hard to become a __front-end developer__.<br/>
 🖌️ I majored in visual design. <br/>
-🛠️ It mainly uses __JavaScript__ and __React__, and there is no resistance to new technologies.
+🛠️ I mainly use __JavaScript__ and __React__, and I have no objection to new technologies.
 
 
 📖 I enjoy reading books and working out. <br/>
