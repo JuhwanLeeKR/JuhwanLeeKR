@@ -28,7 +28,7 @@
 📖 I enjoy reading books and working out. <br/>
 💪 __I always try to be myself as much as I can__.
 
-😊 I look forward to your kind cooperation.
+😊 Looking forward to collaborating with you🎉
 
   
 <br/>
