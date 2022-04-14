@@ -43,7 +43,7 @@
 
 <div align='left'>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhwanleekr&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=tokyonight" height="165">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhwanleekr&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=cobalt" height="165">
   
 
 #### 📍 Techs that I've usually used✌️
@@ -67,7 +67,7 @@
 </div>
   
 <div align='left'>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=juhwanleekr&border_color=000000&theme=tokyonight" height="165">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=juhwanleekr&border_color=000000&theme=cobalt" height="165">
   
 
   
