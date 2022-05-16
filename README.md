@@ -55,12 +55,8 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/react-282C34?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/Python-1E415E?style=for-the-badge&logo=Python&logoColor=FFE283"/>
-<img src="https://img.shields.io/badge/GitHubS%20Actions-0D1117?style=for-the-badge&logo=GitHubActions&logoColor=2088FF"/>
-<img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
-<img src="https://img.shields.io/badge/AWS%20CloudFront-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
-<img src="https://img.shields.io/badge/AWS%20Route%2053-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
 <img src="https://img.shields.io/badge/TailwindCSS-0B1120?style=for-the-badge&logo=TailwindCSS&logoColor=38BDF8">
+<img src="https://img.shields.io/badge/Python-1E415E?style=for-the-badge&logo=Python&logoColor=FFE283"/>
 <br/>
   
   #### 📍 Techs that I've used at least once🙂
@@ -69,7 +65,6 @@
 <img src="https://img.shields.io/badge/Flask-00c6d1?style=for-the-badge&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled%20components-3B3B3B?style=for-the-badge&logo=styledcomponents&logoColor=DB7093"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
 <img src="https://img.shields.io/badge/MongoDB-21313C?style=for-the-badge&logo=MongoDB&logoColor=10AA50"/>
    
   
@@ -79,7 +74,12 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=juhwanleekr&border_color=000000&theme=cobalt" height="165">
   
 
+### ⚒️ CI/CD
   
+<img src="https://img.shields.io/badge/GitHubS%20Actions-0D1117?style=for-the-badge&logo=GitHubActions&logoColor=2088FF"/> <br/>
+<img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
+<img src="https://img.shields.io/badge/AWS%20CloudFront-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
+<img src="https://img.shields.io/badge/AWS%20Route%2053-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
 
   
 ### 🔨 Tools
