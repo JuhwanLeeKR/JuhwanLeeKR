@@ -22,7 +22,8 @@
   
 🧑‍💻 Hello, I am studying hard to become a __front-end developer__.<br/>
 🖌️ I majored in visual design. <br/>
-🛠️ I mainly use __JavaScript__ and __React__, and I have no objection to new technologies.
+🛠️ I mainly use __JavaScript__ and __React__, and I have no objection to new technologies. <br/>
+📝 I am currently studying __TypeScript__.
 
 
 📖 I enjoy reading books and working out. <br/>
