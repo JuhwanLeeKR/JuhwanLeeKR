@@ -76,7 +76,7 @@
 
 ### ⚒️ CI/CD
   
-<img src="https://img.shields.io/badge/GitHubS%20Actions-0D1117?style=for-the-badge&logo=GitHubActions&logoColor=2088FF"/> <br/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=GitHubActions&logoColor=2088FF"/> <br/>
 <img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
 <img src="https://img.shields.io/badge/AWS%20CloudFront-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
 <img src="https://img.shields.io/badge/AWS%20Route%2053-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
