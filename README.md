@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anton&size=30&color=5B7683&width=550&lines=Hello%2C+I'm++Juhwan+Lee+(*%CB%8A-%CB%8B*)%EF%BE%89;I'm+a+front-end+developer+who+always+tries)](https://git.io/typing-svg)
 
-<!-- <img align='right' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJuhwanLeeKR&count_bg=%238D9C9F&title_bg=%232F2929&icon=mailchimp.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false)](https://github.com/JuhwanLeeKR"> -->
+<img align='right' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJuhwanLeeKR&count_bg=%238D9C9F&title_bg=%232F2929&icon=mailchimp.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false)](https://github.com/JuhwanLeeKR">
 
 # Welcome to my GITHUB ![Spin-1s-196px](https://user-images.githubusercontent.com/87694150/162137332-caf80bca-22bb-458c-b3da-9ccdbbc640c7.svg)
 <!-- ## <a href="https://juhwan.shop" target="_blank"> 🔗 portfolio (Next.js + ts + tailwindCSS) </a> -->
@@ -41,8 +41,9 @@
 
 <div align='left'>
 
+<!--
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhwanleekr&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=cobalt" height="165">
-  
+-->
    
 #### 📍 Techs that I've usually used✌️
 
