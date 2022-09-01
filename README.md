@@ -63,7 +63,7 @@
   
 #### 📍 Techs that I've used at least once🙂
 
-[![My Skills](https://skillicons.dev/icons?i=express,jquery,flask,styledcomponents,sass,mongodb,firebase,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,jquery,python,flask,styledcomponents,sass,mongodb,firebase,vite)](https://skillicons.dev)
 
 <!--
 <img src="https://img.shields.io/badge/jQuery-1E2E3B?style=for-the-badge&logo=jQuery&logoColor=21AADF"/>
@@ -76,7 +76,8 @@
 </div>
   
 <div align='left'>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=juhwanleekr&border_color=000000&theme=cobalt" height="165">
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=juhwanleekr&border_color=000000&theme=cobalt" height="165">
+-->
   
 
 <!--
